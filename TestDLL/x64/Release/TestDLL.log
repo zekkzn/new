@@ -1,0 +1,311 @@
+﻿  Main.cpp
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(305,10): warning C4311: 'reinterpret_cast': pointer truncation from 'const UC::uint8 *' to 'UC::int32'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(305,10): warning C4302: 'reinterpret_cast': truncation from 'const UC::uint8 *' to 'UC::int32'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(309,10): warning C4311: 'reinterpret_cast': pointer truncation from 'const UC::uint8 *' to 'UC::uint32'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(309,10): warning C4302: 'reinterpret_cast': truncation from 'const UC::uint8 *' to 'UC::uint32'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(388,19): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(388,79): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(410,7): warning C4099: 'SDK::FName': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(410,7):
+      see declaration of 'SDK::FName'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1264,9): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1286,9): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1287,9): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1299,9): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1310,9): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1334,9): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\CoreUObject_structs.hpp(530,21): warning C4244: 'argument': conversion from 'SDK::FVector::UnderlayingType' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\CoreUObject_structs.hpp(579,27): warning C4244: 'argument': conversion from 'SDK::FVector::UnderlayingType' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\IrisCore_structs.hpp(247,20): warning C4099: 'SDK::FArrayProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1261,7):
+      see declaration of 'SDK::FArrayProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\IrisCore_structs.hpp(261,20): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\IrisCore_structs.hpp(296,20): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(1608,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(1608,2): warning C4369: 'SDK::EViewModeIndex::VMI_Max_0':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(3664,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(3664,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(5868,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(5868,2): warning C4369: 'SDK::ESkinCacheUsage::ESkinCacheUsage_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(6093,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(6093,2): warning C4369: 'SDK::ETextureEncodeSpeedOverride::ETextureEncodeSpeedOverride_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(6208,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(6208,2): warning C4369: 'SDK::EStreamingSourcePriority::EStreamingSourcePriority_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(10522,20): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(16820,20): warning C4099: 'SDK::FStructProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1250,7):
+      see declaration of 'SDK::FStructProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(16821,27): warning C4099: 'SDK::FStructProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1250,7):
+      see declaration of 'SDK::FStructProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(16822,27): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(21114,20): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_structs.hpp(21140,20): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_classes.hpp(18336,27): warning C4099: 'SDK::FStructProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1250,7):
+      see declaration of 'SDK::FStructProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_classes.hpp(18338,27): warning C4099: 'SDK::FStructProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1250,7):
+      see declaration of 'SDK::FStructProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_classes.hpp(18340,27): warning C4099: 'SDK::FStructProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1250,7):
+      see declaration of 'SDK::FStructProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_classes.hpp(18342,27): warning C4099: 'SDK::FStructProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1250,7):
+      see declaration of 'SDK::FStructProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_classes.hpp(18344,27): warning C4099: 'SDK::FStructProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1250,7):
+      see declaration of 'SDK::FStructProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_classes.hpp(18346,27): warning C4099: 'SDK::FStructProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1250,7):
+      see declaration of 'SDK::FStructProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_classes.hpp(18348,27): warning C4099: 'SDK::FStructProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1250,7):
+      see declaration of 'SDK::FStructProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Engine_classes.hpp(34406,114): warning C4099: 'SDK::FField': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1160,7):
+      see declaration of 'SDK::FField'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\AkAudio_structs.hpp(332,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\AkAudio_structs.hpp(332,2): warning C4369: 'SDK::EAkMidiEventType::EAkMidiEventType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DBDSharedTypes_structs.hpp(334,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DBDSharedTypes_structs.hpp(334,2): warning C4369: 'SDK::EStoryNodeState::EStoryNodeState_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DBDSharedTypes_structs.hpp(347,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DBDSharedTypes_structs.hpp(347,2): warning C4369: 'SDK::EArchiveNodeType::EArchiveNodeType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DBDSharedTypes_structs.hpp(1379,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DBDSharedTypes_structs.hpp(1379,2): warning C4369: 'SDK::EQuestOperationType::EQuestOperationType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DeadByDaylight_structs.hpp(3210,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DeadByDaylight_structs.hpp(3210,2): warning C4369: 'SDK::EQuestCondition::EQuestCondition_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DeadByDaylight_structs.hpp(3222,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DeadByDaylight_structs.hpp(3222,2): warning C4369: 'SDK::EQuestTargetValue::EQuestTargetValue_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DeadByDaylight_structs.hpp(3233,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\DeadByDaylight_structs.hpp(3233,2): warning C4369: 'SDK::EQuestTierSizeValue::EQuestTierSizeValue_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\MovieSceneTracks_structs.hpp(70,20): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\WwiseResourceLoader_structs.hpp(45,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\WwiseResourceLoader_structs.hpp(45,2): warning C4369: 'SDK::EWwiseGroupType::EWwiseGroupType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Niagara_structs.hpp(559,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Niagara_structs.hpp(559,2): warning C4369: 'SDK::ENDISkeletalMesh_SkinningMode::ENDISkeletalMesh_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\SimplygonUObjects_structs.hpp(287,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\SimplygonUObjects_structs.hpp(287,2): warning C4369: 'SDK::EOutputDDSCompressionType::EOutputDDSCompressionType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\VariantManagerContent_classes.hpp(106,27): warning C4099: 'SDK::FProperty': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Main.cpp')
+      C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\Basic.hpp(1181,7):
+      see declaration of 'SDK::FProperty'
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(69,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(69,2): warning C4369: 'SDK::EHoudiniRampInterpolationType::InValid':  enumerator value '-1' cannot be represented as 'unsigned char', value is '-1'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(125,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(125,2): warning C4369: 'SDK::EHoudiniCurveType::Invalid':  enumerator value '-1' cannot be represented as 'unsigned char', value is '-1'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(137,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(137,2): warning C4369: 'SDK::EHoudiniCurveMethod::Invalid':  enumerator value '-1' cannot be represented as 'unsigned char', value is '-1'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(148,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(148,2): warning C4369: 'SDK::EHoudiniCurveBreakpointParameterization::Invalid':  enumerator value '-1' cannot be represented as 'unsigned char', value is '-1'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(191,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(191,2): warning C4369: 'SDK::EAttribStorageType::Invalid':  enumerator value '-1' cannot be represented as 'unsigned char', value is '-1'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(204,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HoudiniEngineRuntime_structs.hpp(204,2): warning C4369: 'SDK::EAttribOwner::Invalid':  enumerator value '-1' cannot be represented as 'unsigned char', value is '-1'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\ScriptableToolsFramework_structs.hpp(69,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\ScriptableToolsFramework_structs.hpp(69,2): warning C4369: 'SDK::EScriptableToolGizmoTranslation::EScriptableToolGizmoTranslation_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\ScriptableToolsFramework_structs.hpp(81,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\ScriptableToolsFramework_structs.hpp(81,2): warning C4369: 'SDK::EScriptableToolGizmoRotation::EScriptableToolGizmoRotation_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\ScriptableToolsFramework_structs.hpp(97,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\ScriptableToolsFramework_structs.hpp(97,2): warning C4369: 'SDK::EScriptableToolGizmoScale::EScriptableToolGizmoScale_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HeadMountedDisplay_structs.hpp(100,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'Main.cpp')
+  
+C:\DBD Stuff\Internal\TestDLL\TestDLL\SDK\HeadMountedDisplay_structs.hpp(100,2): warning C4369: 'SDK::EXRTrackedDeviceType::EXRTrackedDeviceType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'Main.cpp')
+  
+  Generating code
+  1 of 477 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TestDLL.vcxproj -> C:\DBD Stuff\Internal\TestDLL\x64\Release\TestDLL.dll
